@@ -1,8 +1,8 @@
 {
-  "version_code": 1,
+  "version_code": 6,
   "block_online": false,
   "hide_download": false,
-  "require_update": false,
+  "require_update": true,
   "direct": "com.downloadmp3.musicdownloader",
   "hideRate": false,
   "showAds": true,
