@@ -5,7 +5,7 @@
   "require_update": true,
   "direct": "com.downloadmp3.musicplayer.downloadmusic.musicdownloader",
   "hideRate": false,
-  "time_show_ads": 60000,
+  "time_show_ads": 0,
   "showAds": true,
   "data_type": 0,
   "listpub": [
