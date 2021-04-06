@@ -1,11 +1,11 @@
 {
-  "version_code": 1,
+  "version_code": 2,
   "block_online": false,
   "hide_download": false,
   "require_update": true,
   "direct": "com.downloadmp3.musicplayer.downloadmusic.musicdownloader",
   "hideRate": false,
-  "time_show_ads": 60000,
+  "time_show_ads": 30000,
   "showAds": true,
   "data_type": 0,
   "listpub": [
